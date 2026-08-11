@@ -1,4 +1,4 @@
-# Dr. Edwin William Portfolio
+# Dr. Edwine William Portfolio
 
 Professional portfolio website for Dr. Edwin William, Clinical Pharmacist, Lecturer, Researcher and Academic Leader.
 
